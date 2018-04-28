@@ -8,6 +8,20 @@ A very simple, distraction-free style without much formatting.
 
 <img src="images/Ideas.png" width="600">
 
+
+## oneM2M Resource
+
+A vertical style that can be used to model and present
+[oneM2M](http://www.onem2m.org) resources and resource trees.
+
+
+
+
+[oneM2MResource.itmz-style](styles/oneM2MResource.itmz-style)
+
+<img src="images/oneM2MResource.png" width="600">
+
+
 ## Organigram
 
 A top-down style that emphasizes the first level.
@@ -26,6 +40,17 @@ The original purpose was to format the mindmap output from [SDTTool](https://git
 [SDT.itmz-style](styles/SDT.itmz-style)
 
 <img src="images/SDT.png" width="600">
+
+
+## Task Board
+
+A vertical style that is suited as a task board for ordering and priotizing
+tasks. 
+
+
+[TaskBoard.itmz-style](styles/TaskBoard.itmz-style)
+
+<img src="images/TaskBoard.png" width="600">
 
 
 ---
